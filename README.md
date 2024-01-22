@@ -1,7 +1,7 @@
 # Music Discord-Bot
 This bot have several features:
 1. Plays a song from search
-2. Add songs using the URL
+2. Add songs using its YouTube URL
 3. Play a playlist
 4. Skipping current song
 5. Looking at the song queue
