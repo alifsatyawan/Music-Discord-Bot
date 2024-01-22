@@ -1,5 +1,5 @@
 # Music Discord-Bot
-# The discord bot have several features:
+This bot have several features:
 1. Plays a song from search
 2. Add songs using the URL
 3. Play a playlist
