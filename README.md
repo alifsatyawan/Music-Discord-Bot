@@ -1,5 +1,5 @@
 # Music Discord-Bot
-This bot have several features/commands:
+This bot have several features/commands
 # Commands
 
 - play
