@@ -1,10 +1,14 @@
 # Music Discord-Bot
-This bot have several features:
-1. Plays a song from search
-2. Add songs using its YouTube URL
-3. Play a playlist
-4. Skipping current song
-5. Looking at the song queue
-6. Pausing current song
-7. Resuming current song
-8. Exiting the channel
+This bot have several features/commands:
+# Commands
+
+- play
+  - song {url}       - plays the song from the youtube url
+  - search {keyword} - searches for the keyword on youtube and plays the first result
+  - playlist {url}   - plays the playlist from url
+
+- skip   - Skips the current song
+- queue  - Displays the first 10 songs in the queue
+- pause  - pauses the current song
+- resume - resumes playing the current song
+- exit   - kicks the bot from the voice channel
